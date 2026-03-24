@@ -1,0 +1,15 @@
+.bg-primary {
+  background-color: #1D4ED8;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
